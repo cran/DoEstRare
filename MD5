@@ -1,0 +1,11 @@
+6c5b13da1eb2ea4a026cf52f23313c4c *DESCRIPTION
+c7e0af71bff40310a9bfa3ae0ea24f12 *NAMESPACE
+9201a56b19fcbda7652dd2d72fce0f21 *R/DoEstRare.R
+2b4040424b10aecce05453ee0be10b0e *R/permutations.R
+9ed3c5dbcbfcd16da38cde0b7494f571 *inst/doc/DoEstRare_Manual.pdf
+1e4cd6986c480ae722bbe98e4133cd83 *man/DoEstRare.Rd
+fb910de6ec5625804e4bfb9aa80c173f *src/DoEstRare.c
+eefee013e0b8c74868dac73d8b1a38d8 *src/DoEstRare.h
+8745a6e241c42593593a4a9b38b3efaa *src/functions.c
+f4e51fa2fa899df9ee01f8b522a3bc14 *src/functions.h
+5b50f3081fe5d151e813844db3763986 *src/init.c

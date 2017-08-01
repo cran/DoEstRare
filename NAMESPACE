@@ -1,0 +1,3 @@
+importFrom("stats", "bw.nrd0", "qnbinom")
+useDynLib(DoEstRare, .registration=T)
+export(DoEstRare)
